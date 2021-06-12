@@ -2,20 +2,20 @@
 
 1.  Create a project on GitHub
 2.  Copy the project link
-	  (Clone or Download -> Copy to Clipboard)
+    .Clone or Download -> Copy to Clipboard
 3.  Download the project repository to local
-	  git clone <git_repository_link.git>
+    .git clone <git_repository_link.git>
 4.  Checking the status
-	  git status
+    .git status
 5.  Add files in the repository
-	  git add <filename>
+    .git add <filename>
 6.  Add the files into the GitHub Repository
-	  git push
+    .git push
 7.  Pull the latest code from the Repository
-	  git pull
+    .git pull
 8.  Create a new branch
-	  git branch
-	  git branch littlefeature
+    .git branch
+    .git branch littlefeature
 9.  Change to another branch from Master branch
-	  git checkout littlefeature
-10.  
+    .git checkout littlefeature
+10. 
